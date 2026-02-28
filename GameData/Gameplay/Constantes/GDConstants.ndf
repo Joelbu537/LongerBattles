@@ -1,3 +1,5 @@
+// Comments got auto-translated to german (with AI) because I refuse to read french.
+
 ///!\ BITTE DIE ALPHABETISCHE REIHENFOLGE EINHALTEN !
 // Nach Kategorien, dann nach Konstante.
 
@@ -166,8 +168,8 @@ Constantes is TTunableConstante
 TacticVictoryLevelConstantes is TVictoryLevelConstantes
 (
     MinorVictoryLimit = 0.05  // Verhältnis zwischen dem Score des Siegers und dem zweitbesten Score
-    MajorVictoryLimit = 0.55  // Verhältnis zwischen dem Score des Siegers und dem zweitbesten Score
-    TotalVictoryLimit = 0.75  // Verhältnis zwischen dem Score des Siegers und dem zweitbesten Score
+    MajorVictoryLimit = 0.55
+    TotalVictoryLimit = 0.75
 )
 
 //---------------------------------------------------------------------------------------//
@@ -349,9 +351,9 @@ WargameConstantes is TWargameTunableConstante
 
     ConquestPossibleScores =
     [
-        1000,//1000 par défaut, 1800 (30mn) en limité
-        2000,//2000 par défaut, 2100 (35mn) en limité
-        4000,//4000 par défaut, 2400 (45mn) en limité
+        1000,
+        2000,
+        4000,
         6000,
         8000,
         10000,
