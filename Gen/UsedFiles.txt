@@ -1,0 +1,5 @@
+GameData:/Localisation/LongerBattles/COMPANIES.csv
+GameData:/Localisation/LongerBattles/INTERFACE_INGAME.csv
+GameData:/Localisation/LongerBattles/INTERFACE_OUTGAME.csv
+GameData:/Localisation/LongerBattles/PLATOONS.csv
+GameData:/Localisation/LongerBattles/UNITS.csv
