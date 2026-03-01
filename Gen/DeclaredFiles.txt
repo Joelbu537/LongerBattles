@@ -1,2 +1,0 @@
-ZZ:/MeshPack/LongerBattles/Mesh_All.spk
-ZZ:/TextureProxy/LongerBattles/Mesh_All.ndfbin

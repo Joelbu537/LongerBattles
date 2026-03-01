@@ -1,5 +1,5 @@
---- Generation times (total: 160ms) --
-                  Read catalog:    0.145 (1)
+--- Generation times (total: 144ms) --
+                  Read catalog:    0.136 (1)
                       Textures:    0.000 (0)
               Non-mesh atlases:    0.000 (0)
                   Mesh atlases:    0.000 (0)
@@ -7,7 +7,7 @@
                     Animations:    0.000 (0)
                         Sounds:    0.000 (0)
                         Videos:    0.000 (0)
-             Localisation dico:    0.008 (5)
-              Localisation ini:    0.005 (0)
+             Localisation dico:    0.004 (0)
+              Localisation ini:    0.004 (0)
            Texture proxy packs:    0.000 (5)
-                    Mesh packs:    0.001 (5)
+                    Mesh packs:    0.000 (5)
